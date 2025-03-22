@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @Janesh107
-- 👀 I’m interested in Web Designing and creating websites
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate with teams of web desginers.
-- 📫 How to reach me -
-        My Linkedin Profile Url- linkedin.com/in/janesh-chhaniwal-99322518b
+# 👋 Hi, I'm Janesh Kumar Chhaniwal  
+
+I'm a **Business Analytics Specialist** with expertise in transforming data into actionable insights. Skilled in **Python** and **SQL**, I specialize in **data visualization, predictive modeling, and dashboard design** to drive strategic decision-making.  
+
+🔹 Passionate about leveraging data for business growth  
+🔹 Experienced in building intuitive dashboards and analytical models  
+🔹 Always exploring new ways to optimize processes and uncover trends  
+
+Let's connect and collaborate on data-driven solutions! 🚀  
         
 
 <!---
